@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="264.58038mm"
+   height="255.52768mm"
+   viewBox="0 0 264.58038 255.52768"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="RocMesh.svg"
+   xml:space="preserve"
+   inkscape:export-filename="RocMesh.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.50205276"
+     inkscape:cx="500.94337"
+     inkscape:cy="483.01696"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3" /><defs
+     id="defs1"><style
+       id="style1">
+      .cls-1 {
+        fill: #2c2d3c;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #67ea94;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke: #2c2d3c;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style><style
+       id="style1-2">
+      .cls-1 {
+        fill: #2c2d3c;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #67ea94;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(55.825604,-60.619493)"><g
+       id="g1"
+       transform="matrix(0.26458333,0,0,0.26458333,-55.825604,60.619493)"><g
+         id="g2"><g
+           id="g3"
+           transform="matrix(0.92085641,0,0,0.92085641,39.571354,65.730144)"><rect
+             style="fill:#67ea94;fill-opacity:1;stroke-width:20.5222"
+             id="rect3"
+             width="1399.4681"
+             height="1358.3708"
+             x="-228.99127"
+             y="-207.64905" /><path
+             class="cls-2"
+             d="m 119.14396,0 h 762.1416 c 48.44018,0 87.76747,39.327288 87.76747,87.767477 V 550.15016 H 31.376481 V 87.767477 C 31.376481,39.327288 70.703769,0 119.14396,0 Z"
+             id="path1" /><g
+             id="g4"
+             transform="matrix(0.93812768,0,0,0.93812768,30.935831,0)"><path
+               class="cls-1"
+               d="m 612.62756,191.74223 c -7.4752,10.63141 -14.37214,20.39566 -21.22349,30.19167 -62.68561,89.62731 -125.36335,179.26018 -188.04485,268.89037 -0.57258,0.81874 -1.13637,1.64598 -1.75207,2.43186 -3.82485,4.88178 -4.32372,5.0275 -9.7006,1.46763 -12.70347,-8.41072 -25.36593,-16.88376 -38.01347,-25.37853 -7.79142,-5.23316 -7.90587,-5.83521 -2.57486,-13.44742 31.94418,-45.61377 63.90127,-91.21862 95.8654,-136.81841 43.14434,-61.54964 86.27925,-123.10602 129.48347,-184.61366 3.86001,-5.49532 7.38144,-11.22595 12.24113,-16.03869 13.25674,-13.12876 37.28379,-12.53572 48.96104,3.2886 10.0843,13.6657 19.83342,27.56115 29.65121,41.40787 68.89636,97.16911 137.6986,194.405 206.52803,291.62152 7.83226,11.0626 7.13773,9.79202 -3.15678,16.9286 -11.69922,8.1105 -23.55601,15.99402 -35.34989,23.968 -7.23496,4.89157 -7.32899,4.94702 -12.23225,-2.06031 -17.75314,-25.37098 -35.44804,-50.78268 -53.1522,-76.18789 -50.8269,-72.93612 -101.64621,-145.87757 -152.47815,-218.81021 -1.42257,-2.04109 -2.95399,-4.00641 -5.05167,-6.841 z"
+               id="path3" /><path
+               class="cls-1"
+               d="m 365.74831,101.57968 c 7.87117,5.4521 15.4219,10.68623 22.97693,15.91419 7.19046,4.97563 14.41224,9.90646 21.5691,14.92977 5.07044,3.55891 5.07218,3.68873 1.57061,8.70379 -17.0186,24.37444 -34.04498,48.74345 -51.08646,73.10192 -41.67234,59.56524 -83.36051,119.11953 -125.03042,178.68659 -23.19794,33.16164 -46.37162,66.34024 -69.55734,99.51043 -0.42938,0.61431 -0.85552,1.23206 -1.31201,1.82605 -3.28418,4.27338 -3.36081,4.38149 -7.68128,1.46951 -13.24726,-8.92863 -26.47837,-17.88298 -39.62011,-26.96553 -5.65973,-3.91147 -5.67003,-4.55452 -1.43534,-10.61153 37.35955,-53.43658 74.73933,-106.85907 112.11651,-160.28331 41.67293,-59.56421 83.34655,-119.12785 125.02859,-178.68568 3.99706,-5.71128 8.05619,-11.3793 12.46122,-17.5962 z"
+               id="path4" /></g><text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:202.202px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#2c2d3c;fill-opacity:1;stroke-width:0.72396377;stroke:none;stroke-opacity:1;stroke-dasharray:none"
+             x="29.166937"
+             y="792.24878"
+             id="text1"><tspan
+               sodipodi:role="line"
+               id="tspan1"
+               x="29.166937"
+               y="792.24878"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:202.202px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2c2d3c;fill-opacity:1;stroke-width:0.72396377;stroke:none;stroke-opacity:1;stroke-dasharray:none">ROCMesh</tspan></text></g></g></g></g></svg>
