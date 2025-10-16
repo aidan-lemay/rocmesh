@@ -1,0 +1,22 @@
+API Documentation: https://python.meshtastic.org/index.html
+CLI Usage: https://meshtastic.org/docs/software/python/cli/usage/
+
+WeldonDepot Address: 192.168.237.7
+
+Get Info: meshtastic --host 192.168.237.7 --info
+Get Nodes: meshtastic --host 192.168.237.7 --nodes
+Send Message on Channel: meshtastic --host 192.168.237.7 --ch-index 0 --sendtext 'Hello Mesh!'
+Send Message To Node: meshtastic --host 192.168.237.7 --dest "[Node ID]" --sendtext "Private message"
+
+Node IDs:
+DOC - !43b58008
+MED - !9ea1e810
+Send Message to K5DOC Node: meshtastic --host 192.168.237.7 --dest "!43b58008" --sendtext "Private message"
+
+Channels:
+--ch-index 0 = LongFast
+--ch-index 1 = DefSpend
+
+ToDo:
+- Needs to loop after completing a command
+- Needs error checking / handling from API - shouldn't crash and should present back to user
