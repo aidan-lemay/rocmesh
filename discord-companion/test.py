@@ -1,6 +1,8 @@
 import sys
 import meshtastic
 import meshtastic.tcp_interface
+import os
+from contextlib import redirect_stdout
 
 radio_hostname = "192.168.237.7"
 iface = meshtastic.tcp_interface.TCPInterface(radio_hostname)
@@ -22,7 +24,11 @@ match opt:
         iface.showNodes(includeSelf=False, showFields=["user.id", "user.longName", "user.shortName", "lastHeard"])
     case "2":
         print ("Search Node")
-        nodeList = iface.showNodes(includeSelf=False, showFields=["user.id", "user.longName", "user.shortName", "lastHeard"])
+        nodeList = ""
+        with open(os.devnull, 'w') as fnull:
+            with redirect_stdout(fnull):
+                nodeList = iface.showNodes(includeSelf=False, showFields=["user.id", "user.longName", "user.shortName", "lastHeard"])
+        print (type(nodeList))
     case "3":
         print ("Send to LongFast")
         txt = input("Message: ")
